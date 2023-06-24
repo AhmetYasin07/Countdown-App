@@ -1,0 +1,398 @@
+{
+  "error": false,
+  "msg": "flags images retrieved",
+  "data": [
+    {
+      "name": "Islamic Republic of AFGHANISTAN",
+      "arabicName": "جمهورية أفغانستان الإسلامية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Afghanistan_Flag.svg",
+      "iso2": "AF",
+      "iso3": "AFG"
+    },
+    {
+      "name": "Republic of ALBANIA",
+      "arabicName": "جمهورية ألبانيا",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+      "iso2": "AL",
+      "iso3": "ALB"
+    },
+    {
+      "name": "People’s Democratic Republic of ALGERIA",
+      "arabicName": "الجمهورية الجزائرية الديمقراطية الشعبية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+      "iso2": "DZ",
+      "iso3": "DZA"
+    },
+    {
+      "name": "Republic of AZERBAIJAN",
+      "arabicName": "جمهورية أذربيجان",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+      "iso2": "AZ",
+      "iso3": "AZE"
+    },
+    {
+      "name": "Kingdom of BAHRAIN",
+      "arabicName": "مملكة البحرين",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+      "iso2": "BH",
+      "iso3": "BHR"
+    },
+    {
+      "name": "People’s Republic of BANGLADESH",
+      "arabicName": "جمهورية بنغلاديش الشعبية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+      "iso2": "BD",
+      "iso3": "BGD"
+    },
+    {
+      "name": "Republic of BENIN",
+      "arabicName": "جمهورية بنين",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+      "iso2": "BJ",
+      "iso3": "BEN"
+    },
+    {
+      "name": "BRUNEI-DARUSSALAM",
+      "arabicName": "بروناي دار السلام",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+      "iso2": "BN",
+      "iso3": "BRN"
+    },
+    {
+      "name": "BURKINA-FASO",
+      "arabicName": "بوركينافاسو",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+      "iso2": "BF",
+      "iso3": "BFA"
+    },
+    {
+      "name": "￼￼￼Republic of CAMEROON",
+      "arabicName": "جمهورية الكاميرون",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+      "iso2": "CM",
+      "iso3": "CMR"
+    },
+    {
+      "name": "Republic of CHAD",
+      "arabicName": "جمهورية تشاد",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+      "iso2": "TD",
+      "iso3": "TCD"
+    },
+    {
+      "name": "Union of the COMOROS",
+      "arabicName": "جمهورية القمر الاتحادية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+      "iso2": "KM",
+      "iso3": "COM"
+    },
+    {
+      "name": "Republic of CÔTE D’IVOIRE",
+      "arabicName": "ساحل العاج",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+      "iso2": "CI",
+      "iso3": "CIV"
+    },
+    {
+      "name": "Republic of DJIBOUTI",
+      "arabicName": "جمهورية جيبوتي",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
+      "iso2": "DJ",
+      "iso3": "DJI"
+    },
+    {
+      "name": "Arab Republic of EGYPT",
+      "arabicName": "جمهورية مصر العربية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+      "iso2": "EG",
+      "iso3": "EGY"
+    },
+    {
+      "name": "Republic of GABON",
+      "arabicName": "جمهورية الغابون",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+      "iso2": "GA",
+      "iso3": "GAB"
+    },
+    {
+      "name": "Republic of The Gambia",
+      "arabicName": "جمهورية غامبيا",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+      "iso2": "GM",
+      "iso3": "GMB"
+    },
+    {
+      "name": "Republic of GUINEA",
+      "arabicName": "جمهورية غينيا",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+      "iso2": "GN",
+      "iso3": "GIN"
+    },
+    {
+      "name": "Republic of GUINEA-BISSAU",
+      "arabicName": "جمهورية غينيا بيساو",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+      "iso2": "GW",
+      "iso3": "GNB"
+    },
+    {
+      "name": "Republic of GUYANA",
+      "arabicName": "جمهورية غويانا",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
+      "iso2": "GY",
+      "iso3": "GUY"
+    },
+    {
+      "name": "Republic of INDONESIA",
+      "arabicName": "جمهورية إندونيسيا",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+      "iso2": "ID",
+      "iso3": "IDN"
+    },
+    {
+      "name": "Islamic Republic of IRAN",
+      "arabicName": "الجمهورية الإسلامية الإيرانية",
+      "flag": " https://upload.wikimedia.org/wikipedia/commons/c/ca/Flag_of_Iran.svg",
+      "iso2": "IR",
+      "iso3": "IRN"
+    },
+    {
+      "name": "Republic of IRAQ",
+      "arabicName": "جمهورية العراق",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+      "iso2": "IQ",
+      "iso3": "IRQ"
+    },
+    {
+      "name": "Hashemite Kingdom of JORDAN",
+      "arabicName": "المملكة الأردنية الهاشمية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+      "iso2": "JO",
+      "iso3": "JOR"
+    },
+    {
+      "name": "Republic of KAZAKHSTAN",
+      "arabicName": "جمهورية كازاخستان",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+      "iso2": "KZ",
+      "iso3": "KAZ"
+    },
+    {
+      "name": "State of KUWAIT",
+      "arabicName": "دولة الكويت",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+      "iso2": "KW",
+      "iso3": "KWT"
+    },
+    {
+      "name": "KYRGYZ Republic",
+      "arabicName": "جمهورية قيرقيزيا",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
+      "iso2": "KG",
+      "iso3": "KGZ"
+    },
+    {
+      "name": "Republic of LEBANON",
+      "arabicName": "الجمهورية اللبنانية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+      "iso2": "LB",
+      "iso3": "LBN"
+    },
+    {
+      "name": "Libya",
+      "arabicName": "دولة ليبيا",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+      "iso2": "LY",
+      "iso3": "LBY"
+    },
+    {
+      "name": "MALAYSIA",
+      "arabicName": "ماليزيا",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+      "iso2": "MY",
+      "iso3": "MYS"
+    },
+    {
+      "name": "Republic of MALDIVES",
+      "arabicName": "جمهورية المالديف",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+      "iso2": "MV",
+      "iso3": "MDV"
+    },
+    {
+      "name": "Republic of MALI",
+      "arabicName": "جمهورية مالي",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+      "iso2": "ML",
+      "iso3": "MLI"
+    },
+    {
+      "name": "Islamic Republic of MAURITANIA",
+      "arabicName": "الجمهورية الإسلامية الموريتانية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+      "iso2": "MR",
+      "iso3": "MRT"
+    },
+    {
+      "name": "Kingdom of MOROCCO",
+      "arabicName": "المملكة المغربية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+      "iso2": "MA",
+      "iso3": "MAR"
+    },
+    {
+      "name": "Republic of MOZAMBIQUE",
+      "arabicName": "جمهورية موزمبيق",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+      "iso2": "MZ",
+      "iso3": "MOZ"
+    },
+    {
+      "name": "Republic of NIGER",
+      "arabicName": "جمهورية النيجر",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+      "iso2": "NE",
+      "iso3": "NER"
+    },
+    {
+      "name": "Federal Republic of NIGERIA",
+      "arabicName": "جمهورية نيجيريا الاتحادية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+      "iso2": "NG",
+      "iso3": "NGA"
+    },
+    {
+      "name": "Sultanate of OMAN",
+      "arabicName": "سلطنة عمان",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+      "iso2": "OM",
+      "iso3": "OMN"
+    },
+    {
+      "name": "Islamic Republic of PAKISTAN",
+      "arabicName": "جمهورية باكستان الإسلامية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+      "iso2": "PK",
+      "iso3": "PAK"
+    },
+    {
+      "name": "State of PALESTINE",
+      "arabicName": "دولة فلسطين",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+      "iso2": "PS",
+      "iso3": "PSE"
+    },
+    {
+      "name": "State of QATAR",
+      "arabicName": "دولة قطر",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+      "iso2": "QA",
+      "iso3": "QAT"
+    },
+    {
+      "name": "Kingdom of SAUDI ARABIA",
+      "arabicName": "الممملكة العربية السعودية ",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+      "iso2": "SA",
+      "iso3": "SAU"
+    },
+    {
+      "name": "Republic of SENEGAL",
+      "arabicName": "جمهورية السنغال",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+      "iso2": "SN",
+      "iso3": "SEN"
+    },
+    {
+      "name": "Republic of SIERRA LEONE",
+      "arabicName": "جمهورية سيراليون",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+      "iso2": "SL",
+      "iso3": "SLE"
+    },
+    {
+      "name": "Republic of SOMALIA",
+      "arabicName": "جمهورية الصومال",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+      "iso2": "SO",
+      "iso3": "SOM"
+    },
+    {
+      "name": "Republic of The SUDAN",
+      "arabicName": "جمهورية السودان",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+      "iso2": "SD",
+      "iso3": "SDN"
+    },
+    {
+      "name": "Republic of SURINAME",
+      "arabicName": "جمهورية سورينام",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+      "iso2": "SR",
+      "iso3": "SUR"
+    },
+    {
+      "name": "Republic of TAJIKISTAN",
+      "arabicName": "جمهورية طاجكستان",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+      "iso2": "TJ",
+      "iso3": "TJK"
+    },
+    {
+      "name": "Republic of TOGO",
+      "arabicName": "جمهورية توغو",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+      "iso2": "TG",
+      "iso3": "TGO"
+    },
+    {
+      "name": "Republic of TUNISIA",
+      "arabicName": "الجمهورية التونسية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+      "iso2": "TN",
+      "iso3": "TUN"
+    },
+    {
+      "name": "Republic of TÜRKİYE",
+      "arabicName": "الجمهورية التركية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+      "iso2": "TR",
+      "iso3": "TUR"
+    },
+    {
+      "name": "Turkmenistan",
+      "arabicName": "تركمانستان",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
+      "iso2": "TM",
+      "iso3": "TKM"
+    },
+    {
+      "name": "Republic of UGANDA",
+      "arabicName": "جمهورية أوغندا",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+      "iso2": "UG",
+      "iso3": "UGA"
+    },
+    {
+      "name": "State of The UNITED ARAB EMIRATES",
+      "arabicName": "دولة الإمارات العربية المتحدة",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+      "iso2": "AE",
+      "iso3": "ARE"
+    },
+    {
+      "name": "Republic of UZBEKISTAN",
+      "arabicName": "جمهورية أوزبكستان",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
+      "iso2": "UZ",
+      "iso3": "UZB"
+    },
+    {
+      "name": "Republic of YEMEN",
+      "arabicName": "الجمهورية اليمنية",
+      "flag": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+      "iso2": "YE",
+      "iso3": "YEM"
+    }
+  ]
+}

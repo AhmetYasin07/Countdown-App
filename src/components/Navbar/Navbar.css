@@ -1,0 +1,44 @@
+.nav-item:hover {
+  text-decoration: none;
+}
+
+.navbar-brand {
+  margin-left: 20px;
+  font-family: "Dosis", sans-serif;
+}
+
+.button {
+  display: flex;
+  border-radius: 15px;
+}
+.world {
+  width: 30px;
+  height: 30px;
+}
+
+.MobileIcon {
+  color: white;
+  position: absolute;
+  top: 0.9rem;
+  right: 3.3rem;
+  font-size: 28px;
+  background: tranparent;
+  cursor: pointer;
+  outline: none;
+}
+
+.navbar_logo{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+}
+.language_flag{
+  width:30px;
+  height:30px;
+  border-radius:100%;
+  object-fit: cover;
+  
+}
+

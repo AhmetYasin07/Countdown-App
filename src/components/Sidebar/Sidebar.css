@@ -1,0 +1,77 @@
+.SidebarContainer{
+    position:fixed;
+    z-index: 999;
+    width:100% ;
+    height:100% ;
+    background: rgba(28, 42, 74 ,  0.5); 
+    align-items:center;
+    display:grid;
+    top:15px;
+    left:0;
+    transition: 0.3s ease-in-out;
+    }
+    .CloseIcon{
+        color:#fff; 
+    }
+    
+    .Icon{
+        position: absolute;
+        top: 0rem;
+        right: 3.3rem;
+        font-size:2rem;
+        background: tranparent;
+        cursor: pointer;
+        outline: none;  
+        
+    }
+    .SidebarWrapper {
+        color:#fff;  
+    }
+    .SidebarMenu {
+        display:grid;
+        grid-template-columns:1fr;
+        grid-template-rows: repeat(6,80px);
+        text-align:center;
+        align-items: center;
+        justify-content: center;
+    }
+    .SidebarLink {
+    color: #fff;
+    display: block;
+    width: 220px!important;
+    height: 45px;
+    padding:6px 5px;
+    outline: none;
+    font-size: 18px;
+    cursor: pointer;
+    align-self: center;
+    flex-wrap: nowrap;
+    background: #30519b; 
+    justify-content:center;
+    text-decoration: none;
+    align-items:center;
+    border: 2px solid #f2f2f2;
+    transition: all 0.3s ease;  
+    }
+    .SidebarLink:hover{
+        text-decoration: none;
+        color: #fff;
+        transition: all 0.2s ease-in-out;  
+    
+    }
+    .SidebarLink:hover{
+    border: 2px solid #30519b  ;
+    background-color: white ;
+    color:#30519b ;
+    }
+    .SidebarBtnWrap {
+        display:flex;
+        justify-content:center;
+        align-items:center;  
+    }
+    
+    @media screen and (max-width: 480px) {
+        .SidebarMenu{
+        grid-template-rows: repeat(6,60px);
+        }
+      }
